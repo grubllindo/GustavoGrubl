@@ -1,7 +1,8 @@
 :root{
     --background:#fff;
-    --foreground:#6E05f3
-    --primary:#141c3a
+    --foreground:#6E05f3;
+    --primary:#141c3a;
+    --primary-light:#cdd3eb;
     --primary-foreground:#fff;
     --secondary:#5be8b9;
     --secondary-foreground:#141c3a;
@@ -33,3 +34,4 @@ html{
     background-color: var(--foreground);
     color: var(--primary-foreground);
 }
+
